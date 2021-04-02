@@ -1,0 +1,21 @@
+name: flutter_bloc_wrapper
+description: A flutter package that wrap flutter_bloc package for clearer, easy implementation
+version: 0.0.1
+author: bigzero1000
+homepage: https://github.com/bigzero1000/flutter_bloc_wrapper
+
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:

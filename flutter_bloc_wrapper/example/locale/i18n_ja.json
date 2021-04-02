@@ -1,0 +1,13 @@
+{
+  "splash_text": "Splash screen",
+  "main_title": "Main Title",
+  "user_name_title": "User Name",
+  "password_title": "Password",
+  "login_button_text": "Login",
+  "common_required_label": "Required",
+  "home_title": "Home",
+  "common_load_more" : "Load More",
+  "user_name_empty" : "User name empty",
+  "pass_empty" : "Password empty",
+  "home" : "Home Screen"
+}
